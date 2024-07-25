@@ -1,10 +1,10 @@
 import os
-if os.path.exists("demofile.txt"):
-  os.remove("demofile.txt")
+if os.path.exists("school.txt"):
+  os.remove("school.txt")
 else:
   print("รันไฟล์Run.pyต่อ") 
 
-shido = range(721000, 722000)
+shido = range(938000, 939000)
 for n in shido:
   pok = n
   book = (f"jk" + str(pok) + ".jpg")
