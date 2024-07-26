@@ -18,12 +18,12 @@ pkg update && pkg upgrade
 pkg install python
 pkg install python2
 pkg install git
-git clone https://github.com/SLOTH1/S-Ddos
-cd S-Ddos
+git clone https://github.com/SLOTH1/PWK-Hack
+cd PWK-Hack
 ls
-python2 Run.py
-ใส่ไอพี
-ใส่port= 80
+python3 Name.py
+python3 Run.py
+nano wobshi.txt
 CTRL+C วรรกเพื่อหยุดโครงการ
 ```
 <div align="center">
