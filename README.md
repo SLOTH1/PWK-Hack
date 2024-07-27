@@ -27,7 +27,7 @@ python3 Run.py
 CTRL+C วรรกเพื่อหยุดโครงการ
 ```
 <div align="center">
-  <img src="Screenshot_20240126-201143.jpg">
+  <img src="IMG_20240522_094152_735.jpg">
   <br>
   <br>
 
