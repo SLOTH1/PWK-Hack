@@ -23,7 +23,7 @@ cd PWK-Hack
 ls
 python3 Name.py
 python3 Run.py
-nano wobshi.txt
+สามารถดูรูปได้จาก storage/emulated/0/Download/SHIDO
 CTRL+C วรรกเพื่อหยุดโครงการ
 ```
 <div align="center">
@@ -37,7 +37,7 @@ CTRL+C วรรกเพื่อหยุดโครงการ
   <a href="https://github.com/SLOTH1"><img src="http://readme-typing-svg.herokuapp.com?color=BF00FF&center=true&vCenter=true&multiline=false&lines=ติดตาม+ผู้สร้าง+SHIDO" alt="UwU">
 <p 
 
-# เว็บไซต์ SHIDO 
+# IG SHIDO 
 <a href="https://www.instagram.com/enoomzaza1?igsh=ajl3ZmFtcWN0N283">ช่องทาง IG</a>
 
 # ช่องทางการติดต่อ FB 
